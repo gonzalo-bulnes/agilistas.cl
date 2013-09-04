@@ -1,6 +1,9 @@
 Iniciativa ChileÁgil: más participación, más diversidad
 =======================================================
 
+[![Build Status](https://api.travis-ci.org/gonzalo-bulnes/agilistas.cl.png)](https://travis-ci.org/gonzalo-bulnes/agilistas.cl)
+[![Code Climate](https://codeclimate.com/github/gonzalo-bulnes/agilistas.cl.png)](https://codeclimate.com/github/gonzalo-bulnes/agilistas.cl)
+
 Una iniciativa surgida del _OpenSpace_ de agosto 2013 para hacer de [ChileÁgil](http://www.chileagil.cl) una comunidad menos intimidante.
 
 Hipótesis
@@ -20,4 +23,4 @@ Esa diversidad es nuestro mejor argumento a momento de **expandir las prácticas
 
 ### Directrices
 
-Durante el _OpenSpace_ de agosto 2013 surgió la idea de utilizar el video como medio para hacer evidente la diversidad de nuestra comunidad, de forma a **permitir que personas que hoy no se altreven a acercarse a las instancias de intercambio se puedan sentir identificadas con personas que se definen a sí mismas como _agilistas_**. 
+Durante el _OpenSpace_ de agosto 2013 surgió la idea de utilizar el video como medio para hacer evidente la diversidad de nuestra comunidad, de forma a **permitir que personas que hoy no se atreven a acercarse a las instancias de intercambio se puedan sentir identificadas con personas que se definen a sí mismas como _agilistas_**. 
